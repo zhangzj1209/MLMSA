@@ -1,17 +1,17 @@
-Analysis and Association of Vehicle Signals in Multi-stations Seismic Data Based on Artificial Intelligence
-by Zhengjie Zhang, Ocean University of China
-Email: zhangzhengjie@stu.ouc.edu.cn
-04/30/2022
+Analysis and Association of Vehicle Signals in Multi-stations Seismic Data Based on Artificial Intelligence  
+by Zhengjie Zhang, Ocean University of China  
+Email: zhangzhengjie@stu.ouc.edu.cn  
+04/30/2022  
 
-This repository is used to store scripts and dataset.
-Limited by the system, this file package only uploads partial data.
+This repository is used to store scripts and dataset.  
+Limited by the system, this file package only uploads partial data.  
 
 
 ## 1. Installation
 * Download repository
 * Install dependencies: 'pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt'
 
-The author only provides part of  dataset as examples.
+The author only provides part of  dataset as examples.  
 The codes for this study have been run successfully under PyCharm 2021.3.3 (Community Edition).
 
 
