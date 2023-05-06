@@ -1,6 +1,6 @@
 Analysis and Association of Vehicle Signals in Multi-stations Seismic Data Based on Artificial Intelligence  
 by Zhengjie Zhang, Ocean University of China  
-Email: zhangzhengjie@stu.ouc.edu.cn, zhangzhengjie@mail.ustc.edu.cn
+Email: zhangzhengjie@stu.ouc.edu.cn, zhangzhengjie@mail.ustc.edu.cn  
 04/30/2022  
 
 This repository is used to store scripts and dataset.  
