@@ -13,12 +13,12 @@ Limited by the system, this file package only uploads partial data.
 
 The author only provides part of  dataset as examples.  
 The codes for this study have been run successfully under PyCharm 2021.3.3 (Community Edition).  
-obspy==1.3.0  
-matplotlib==3.5.1  
-numpy==1.21.5  
-torch==1.11.0  
-pandas==1.4.2  
-scipy==1.8.0  
+  obspy==1.3.0  
+  matplotlib==3.5.1  
+  numpy==1.21.5  
+  torch==1.11.0  
+  pandas==1.4.2  
+  scipy==1.8.0  
 
 
 
