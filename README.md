@@ -9,7 +9,7 @@ Limited by the system, this file package only uploads partial data.
 
 ## 1. Installation
 * Download repository
-* Install dependencies: `pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt`
+* Install dependencies: ```pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt```
 
 The author only provides part of dataset as examples.  
 The codes for this study have been run successfully under PyCharm 2021.3.3 (Community Edition).  
