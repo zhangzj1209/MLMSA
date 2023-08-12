@@ -47,7 +47,7 @@ The codes for this study have been run successfully under PyCharm 2021.3.3 (Comm
 * predict.py: The module for CNN predicting or applying.
 * plot_CNN.py: Drawing related to CNN.
 
-- Convert data format to SAC.  
+Convert data format to SAC.  
 Write seismic station information into "../Code/CNN/data/Station_information.txt"  
 Please run "add_Gaussian_noise.py" first, generate a new file and check it with "file_check.py", then use "generate_label.py" to generate labels for training ("CNN.py").  
 If you want to add your own data (3-component: E, N, Z), add the training data to '../Code/CNN/data/train_test_data/comprehensive_data'.  
