@@ -58,6 +58,6 @@ Please regenerate because the labels come with a path.
 ## 4. xcorr
 * data: Cross-correlation example data.
 * config_xcorr.py: Basic parameters of Cross-correlation.
-* synthetic_data.py: plot Fig 3-9.
+* synthetic_data.py: plot Fig. 3-9.
 * synthetic_tests_lib.py: Cross-correlation library packages.
 * xcorr.py: Cross-correlation.
