@@ -42,7 +42,7 @@ conda config --set show_channel_urls yes
 - Set your working directory at `/data/`
 ```
 cd /data/
-git clone https://github.com/zhangzj1209/ML_MultiStaAssociate.git
+git clone https://github.com/zhangzj1209/MLMSA.git
 ```
 
 
