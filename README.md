@@ -22,7 +22,7 @@ conda activate MLMSA
 - Install the package
 ```
 conda install numpy==1.21.5 pandas==1.4.2 matplotlib==3.5.1 scipy==1.8.0 obspy==1.3.0
-conda install torch==1.11.0
+conda install torch==1.11.0           # If you want to install the GPU version, please check the relevant information yourself.
 ```
 If your installation fails, you can try to replace `conda` with `pip`. In addition, you can also try again after replacing *Tsinghua* or *Ustc* source
 ```
