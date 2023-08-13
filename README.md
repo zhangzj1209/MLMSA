@@ -5,9 +5,7 @@
 ***Description:*** 
 - This is the first part of the subject **Analysis and association of vehicle signals in multi-station seismic data based on artificial intelligence**. 
 - The second part of the subject belongs to the content of using convolutional neural networks to associate seismic signals. At present, the code is still being sorted out and has not been made public.
-
-Limited by the system, this file package only uploads partial data.  
-
+- The published data belongs to the test data.
 
 ## Installation
 
