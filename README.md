@@ -24,7 +24,7 @@ conda activate MLMSA
 conda install numpy==1.21.5 pandas==1.4.2 matplotlib==3.5.1 scipy==1.8.0 obspy==1.3.0
 conda install torch==1.11.0
 ```
-if your installation fails, you can try to replace `conda` with `pip`. In addition, you can also try again after replacing *Tsinghua* or *Ustc* source
+If your installation fails, you can try to replace `conda` with `pip`. In addition, you can also try again after replacing *Tsinghua* or *Ustc* source
 ```
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge 
