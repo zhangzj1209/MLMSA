@@ -2,10 +2,15 @@
 
 **Copyright (c) 2022 Zhengjie Zhang (zhangzhengjie@mail.ustc.edu.cn)**
 
-***Description:*** 
 - This is the first part of the subject **Analysis and association of vehicle signals in multi-station seismic data based on artificial intelligence**. 
 - The second part of the subject belongs to the content of using convolutional neural networks to associate seismic signals. At present, the code is still being sorted out and has not been made public.
 - The published data belongs to the test data.
+
+## Description
+
+- K-Shape:
+- xcorr:
+- ObsPy-Tutorial.pdf: **OBSPY** Chinese tutorial -V 1.0 (2020/04/12), you can get more detailed use of OBSPY through the official website https://docs.obspy.org/, its English tutorial link is: https://docs.obspy.org/tutorial/index.html.
 
 ## Installation
 
