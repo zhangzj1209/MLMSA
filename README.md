@@ -2,15 +2,10 @@
 
 **Copyright (c) 2022 Zhengjie Zhang (zhangzhengjie@mail.ustc.edu.cn)**
 
-by Zhengjie Zhang, Ocean University of China, University of Science and Technology of China  
-Email: zhangzhengjie@stu.ouc.edu.cn, zhangzhengjie@mail.ustc.edu.cn  
-April 30th, 2022  
-
-This repository is used to store scripts and dataset.  
 Limited by the system, this file package only uploads partial data.  
 
 
-## 1. Installation
+## Installation
 
 ### Via Anaconda (recommended):
 - Create a new python virtual environment `MLMSA` and activate it
