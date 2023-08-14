@@ -8,9 +8,9 @@
 
 ## Description
 
-- K-Shape:
-- xcorr:
-- ObsPy-Tutorial.pdf: **OBSPY** Chinese tutorial -V 1.0 (2020/04/12), you can get more detailed use of OBSPY through the official website https://docs.obspy.org/, its English tutorial link is: https://docs.obspy.org/tutorial/index.html.
+- K-Shape: K-Shape algorithm is used for clustering analysis to find the similarity of signals.
+- xcorr: The cross-correlation test of the synthetic data and the cross-correlation results of the received signals of the actual stations.
+- ObsPy-Tutorial.pdf: **ObsPy** Chinese tutorial -V 1.0 (2020/04/12), you can get more detailed use of ObsPy through the official website https://docs.obspy.org/
 
 ## Installation
 
