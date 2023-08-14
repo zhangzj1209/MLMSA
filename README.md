@@ -8,9 +8,9 @@
 
 ## Description
 
-- K-Shape: K-Shape algorithm is used for clustering analysis to find the similarity of signals.
-- xcorr: The cross-correlation test of the synthetic data and the cross-correlation results of the received signals of the actual stations.
-- ObsPy-Tutorial.pdf: **ObsPy** Chinese tutorial -V 1.0 (2020/04/12), you can get more detailed use of ObsPy through the official website https://docs.obspy.org/
+- **K-Shape:** K-Shape algorithm is used for clustering analysis to find the similarity of signals.
+- **xcorr:** The cross-correlation test of the synthetic data and the cross-correlation results of the received signals of the actual stations.
+- **ObsPy-Tutorial.pdf:** ObsPy Chinese tutorial -V 1.0 (2020/04/12), you can get more detailed use of ObsPy through the official website https://docs.obspy.org/
 
 ## Installation
 
@@ -52,10 +52,17 @@ unzip MLMSA.zip
 cd MLMSA/
 ```
 
-
-
-
 ## K-Shape
+```
+cd K-Shape/
+python K_Shape.py
+```
+If you want to modify some basic parameters, it will be in `./config_KShape.py`, and the parameters of the clustering algorithm are in the main function part of `./K_Shape.py`.  
+
+The logging of K-Shape results are recorded in `./log.txt`, loss function is recorded in `./Loss.npy`, and the number of clusters is recorded in `./NUM_CLU.npy`   
+Then, you can use `./plot_KShape` to show related figures.
+
+
 * data: 50 single-station (EB000207) single-component (Z) data for clustering.
 
 * config_KShape.py: Basic parameters of K-Shape code operation.
@@ -68,7 +75,7 @@ cd MLMSA/
 
 
 
-## 4. xcorr
+## xcorr
 * data: Cross-correlation example data.
 * config_xcorr.py: Basic parameters of Cross-correlation.
 * synthetic_data.py: plot Fig. 3-9.
