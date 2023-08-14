@@ -59,7 +59,7 @@ python K_Shape.py
 ```
 If you want to modify some basic parameters, it will be in `./config_KShape.py`, and the parameters of the clustering algorithm are in the main function part of `./K_Shape.py`.  
 
-The logging of K-Shape results are recorded in `./log.txt`, loss function is recorded in `./Loss.npy`, and the number of clusters is recorded in `./NUM_CLU.npy`   
+The logging of K-Shape results are recorded in `./log.txt`, loss function is recorded in `./Loss.npy`, and the number of clusters is recorded in `./NUM_CLU.npy`.   
 
 Then, you can use `./plot_KShape` to show related figures.
 
@@ -75,4 +75,4 @@ python synthetic_data.py
 ```
 python xcorr.py
 ```
-If you want to modify some basic parameters, it will be in `./config_xcorr.py`
+If you want to modify some basic parameters, it will be in `./config_xcorr.py`.
