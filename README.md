@@ -21,7 +21,7 @@ conda create -n MLMSA python=3.8
 conda activate MLMSA
 ```
 
-- Install the package
+- Install the package   
 **Note:** We do not recommend that you install the package below the following version, the higher version is adapted, you are welcome to explore more.
 ```
 conda install numpy==1.21.5 pandas==1.4.2 matplotlib==3.5.1 scipy==1.8.0 obspy==1.3.0
