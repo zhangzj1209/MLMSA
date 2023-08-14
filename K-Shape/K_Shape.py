@@ -234,7 +234,7 @@ if __name__ == "__main__":
     time_begin = time.time()
 
     # optimum configuration
-    num_clu = 2  # Number of clusters (default is 2)
+    # num_clu = 2  # Number of clusters (default is 2)
     max_iter = 100  # Number of iterations (default is 100)
     num_init = 10  # (Initialization) Number of experiments (default is 10)
     m = 5  # The temporary length or dimension of each data (default is 5)
