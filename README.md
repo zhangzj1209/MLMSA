@@ -60,24 +60,19 @@ python K_Shape.py
 If you want to modify some basic parameters, it will be in `./config_KShape.py`, and the parameters of the clustering algorithm are in the main function part of `./K_Shape.py`.  
 
 The logging of K-Shape results are recorded in `./log.txt`, loss function is recorded in `./Loss.npy`, and the number of clusters is recorded in `./NUM_CLU.npy`   
+
 Then, you can use `./plot_KShape` to show related figures.
 
-
-* data: 50 single-station (EB000207) single-component (Z) data for clustering.
-
-* config_KShape.py: Basic parameters of K-Shape code operation.
-* K-Shape.py: K-Shape self-constructing functions and clustering subjects.
-* plot_KShape: Drawing related to K-Shape.
-
-* log.txt: Logging of K-Shape results.
-* Loss.npy: The record of the loss function.
-* NUM_CLU.npy: The record of the number of clusters.
-
-
-
 ## xcorr
-* data: Cross-correlation example data.
-* config_xcorr.py: Basic parameters of Cross-correlation.
-* synthetic_data.py: plot Fig. 3-9.
-* synthetic_tests_lib.py: Cross-correlation library packages.
-* xcorr.py: Cross-correlation.
+```
+cd xcorr/
+```
+- run the example of synthetic data
+```
+python synthetic_data.py
+```
+- run the result of field data
+```
+python xcorr.py
+```
+If you want to modify some basic parameters, it will be in `./config_xcorr.py`
